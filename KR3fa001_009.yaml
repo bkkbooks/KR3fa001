@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa001/tls/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周髀算經音義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa001.xml
+hash: sha256:4d90e97e7f99b1b7ddf46570bcb70ef9cdecf1bf1e10231fe26a481e102bcd6a

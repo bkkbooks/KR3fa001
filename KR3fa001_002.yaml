@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa001/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周髀算經一部上下共二冊元豐七年九月日校訂降授宣德郎祕書省校書郎臣葉祖洽上進校訂承議郎行祕書省校書郎臣王仲修校訂朝奉郎行祕書省校書郎臣錢長卿
+  hash: sha256:571d00edebd2861b1762d6ac9ca4c067ef9709051987c21f523161d684c8b895
+metadata:
+  title: 周髀算經音義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa001.xml
+hash: sha256:faf1531978e2b5d883a9382852acc9736f738d8f20de390027132a3a020adc29

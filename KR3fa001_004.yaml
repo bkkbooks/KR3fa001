@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa001/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奉議郎守祕書丞臣韓宗古朝請郎試祕書少監臣孫覺降授朝散郎試祕書監臣趙彥若
+  hash: sha256:14d35c6801f9623883138600843078be3c9eb17213d69afe3957995efae34d0c
+metadata:
+  title: 周髀算經音義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa001.xml
+hash: sha256:49eb026ad6bfb4281d96d065975b559cf039ff98d52c6728ce44deea5e4f776f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa001/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 述者乃是解釋君卿之所注出於宇文周之時以此推之則君卿者其亦魏晉之間人乎若夫乘句股朱黃之實立倍差減并之術以盡開方之妙百丗之下莫之可易則君卿者誡算學之宗師也嘉定六年癸酉十一月一日丁卯冬至承議郎權知汀州軍州兼管內權農事主管坑冶括蒼鮑浣之仲祺謹書
+  hash: sha256:456ad51fcd2a043400c5d8d35ec95e6f96f8d004e4eb68a59cac02fa2cad7fe1
+metadata:
+  title: 周髀算經音義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa001.xml
+hash: sha256:929661d4ba2ac929653258dd9c5474b2c9da11cafcec5771eab46649c0536813
