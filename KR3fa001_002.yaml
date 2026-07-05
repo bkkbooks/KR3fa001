@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 周髀算經一部上下共二冊元豐七年九月日校訂降授宣德郎祕書省校書郎臣葉祖洽上進校訂承議郎行祕書省校書郎臣王仲修校訂朝奉郎行祕書省校書郎臣錢長卿
-  hash: sha256:571d00edebd2861b1762d6ac9ca4c067ef9709051987c21f523161d684c8b895
+  text: 周髀筭經一部上下共二冊元豐七年九月日校訂降授宣德郎秘書省校書郎臣葉祖洽上進校訂承議郎行秘書省校書郎臣王仲脩校訂朝奉郎行秘書省校書郎臣錢長卿
+  hash: sha256:a4738abf69bc6000ae0aa9eec701f1845bba92fc5c46c8db636c1aa711074b26
 metadata:
   title: 周髀算經音義
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa001.xml
-hash: sha256:faf1531978e2b5d883a9382852acc9736f738d8f20de390027132a3a020adc29
+hash: sha256:7ff5be3a360b2f2594b32fb26d7a9282f772d30ae618bedcb13873777e8496a4

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 奉議郎守祕書丞臣韓宗古朝請郎試祕書少監臣孫覺降授朝散郎試祕書監臣趙彥若
-  hash: sha256:14d35c6801f9623883138600843078be3c9eb17213d69afe3957995efae34d0c
+  text: 奉議郎守秘書丞臣韓宗古朝請郎試秘書少監臣孫覺降授朝散郎試秘書監臣趙彥若
+  hash: sha256:54f8fb33c7b60ed55f483502516be4303863004e1ce9fd4b6acc67a496cb89c1
 metadata:
   title: 周髀算經音義
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa001.xml
-hash: sha256:49eb026ad6bfb4281d96d065975b559cf039ff98d52c6728ce44deea5e4f776f
+hash: sha256:0ca9da060a0508ce59ed39d740c12fd54347b4a55632fb13dd0cfc30daed05b5
